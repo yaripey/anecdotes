@@ -6,10 +6,10 @@ App features functionality to get a random string from array and vote for it. It
 
 To run the app please use:
 
-`
-git clone https://github.com/yaripey/anecdotes
-npm install
-npm start
-`
+
+  git clone https://github.com/yaripey/anecdotes  
+  npm install  
+  npm start  
+
 
 You can use your own strings in the array *anecdotes* in the **src/index.js** file.
